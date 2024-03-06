@@ -19,22 +19,17 @@ io的参与分为两部分，银河任务和官方项目的参与
 
 ### 银河任务
 银河任务分成四个部分（不用慌张，其实很简单）
-
-[👉银河任务一 Ignition Airdrop Program by io.net](#银河任务一)
-
-[👉银河任务二 Social Engagement Updated Daily](#银河任务二 Social Engagement Updated Daily)
-
-[👉银河任务三 Ignition Airdrop by io.net Daily Tasks](#银河任务三 Ignition Airdrop Daily Tasks)
-
-[👉银河任务四 Discord Tiers](#银河任务四 Discord Tiers)
+- [👉银河任务一 Ignition Airdrop Program by io.net](#银河任务一)
+- [👉银河任务二 Social Engagement Updated Daily](#银河任务二)
+- [👉银河任务三 Ignition Airdrop by io.net Daily Tasks](#银河任务三)
+- [👉银河任务四 Discord Tiers](#银河任务四)
 
 ### 准备条件
 - BNB chain钱包
 - twitter账号
 - discord账号
 
-#### 银河任务一 Ignition Airdrop Program
-<a id='银河任务一'>银河任务一 Ignition Airdrop Program</a>
+#### <a id="银河任务一">银河任务一 Ignition Airdrop Program</a>
 
 打开后我建议新手直接无视Galxe Web3 Score - Humanity Score，打开Galxe Passport Holder
 链接自己的BNB钱包。注意这里有需要身份验证，钱包里面准备**0.02**个BNB（大约8U）
@@ -48,8 +43,8 @@ io的参与分为两部分，银河任务和官方项目的参与
 
 ### 👉[点击链接开始任务一](https://galxe.com/8xehTTQLX6wAAFMgKa7UiH/campaign/GCQiot4SR2?referral_code=GRFr2JSkbCmvW3p_ptQGK-R3ftE4TeDlIQ8GYUQ8Xr1TwqM)
 
-#### 银河任务二 Social Engagement Updated Daily
+#### <a id="银河任务二">银河任务二 Social Engagement Updated Daily</a>
 
-#### 银河任务三 Ignition Airdrop by Daily Tasks
+#### <a id="银河任务三">银河任务三 Ignition Airdrop Daily Tasks</a>
 
-#### 银河任务四 Discord Tiers
+#### <a id="银河任务四">银河任务四 Discord Tiers</a>
