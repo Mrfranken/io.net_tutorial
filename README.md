@@ -20,7 +20,7 @@ io的参与分为两部分，银河任务和官方项目的参与
 ### 银河任务
 银河任务分成四个部分（不用慌张，其实很简单）
 
-[👉银河任务一 Ignition Airdrop Program by io.net](#银河任务一 Ignition Airdrop Program)
+[👉银河任务一 Ignition Airdrop Program by io.net](#银河任务一)
 
 [👉银河任务二 Social Engagement Updated Daily](#银河任务二 Social Engagement Updated Daily)
 
@@ -34,6 +34,7 @@ io的参与分为两部分，银河任务和官方项目的参与
 - discord账号
 
 #### 银河任务一 Ignition Airdrop Program
+<a id='银河任务一'>银河任务一 Ignition Airdrop Program</a>
 
 打开后我建议新手直接无视Galxe Web3 Score - Humanity Score，打开Galxe Passport Holder
 链接自己的BNB钱包。注意这里有需要身份验证，钱包里面准备**0.02**个BNB（大约8U）
