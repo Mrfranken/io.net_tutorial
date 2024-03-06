@@ -41,24 +41,25 @@ io的参与分为两部分，银河任务和官方项目的参与
 ![](./pics/galaxy_task1_1.png)
 
 
-# 👉[点击链接开始任务一](https://galxe.com/8xehTTQLX6wAAFMgKa7UiH/campaign/GCQiot4SR2?referral_code=GRFr2JSkbCmvW3p_ptQGK-R3ftE4TeDlIQ8GYUQ8Xr1TwqM)👈
+### 👉[点击链接开始任务一](https://galxe.com/8xehTTQLX6wAAFMgKa7UiH/campaign/GCQiot4SR2?referral_code=GRFr2JSkbCmvW3p_ptQGK-R3ftE4TeDlIQ8GYUQ8Xr1TwqM)👈
 
 #### <a id="银河任务二">银河任务二 Social Engagement Updated Daily</a>
 任务也非常简单，按照网页上来就好了
 ![](./pics/task2_0.png)
-# 👉[点击链接开始任务二](https://galxe.com/8xehTTQLX6wAAFMgKa7UiH/campaign/GCNzot4eCx?referral_code=GRFr2JNgrCmvVv4tJtQGK-R3aOV6bpF17rxnwgQD3JxZATW)👈
+### 👉[点击链接开始任务二](https://galxe.com/8xehTTQLX6wAAFMgKa7UiH/campaign/GCNzot4eCx?referral_code=GRFr2JNgrCmvVv4tJtQGK-R3aOV6bpF17rxnwgQD3JxZATW)👈
 
 
 #### <a id="银河任务三">银河任务三 Ignition Airdrop Daily Tasks</a>
 任务三是每次浏览任务，每天没事的时候点进来浏览下网页就好了。（注意是浏览io.net的网页，不是任务页面哈）
 ![](./pics/task3_0.png)
 
-# 👉[点击链接开始任务三](https://galxe.com/8xehTTQLX6wAAFMgKa7UiH/campaign/GCNLot4e58)👈
+### 👉[点击链接开始任务三](https://galxe.com/8xehTTQLX6wAAFMgKa7UiH/campaign/GCNLot4e58)👈
 
 #### <a id="银河任务四">银河任务四 Discord Tiers</a>
+任务四需要在discord中活跃，笔者告诉大家个办法，每天在dc里面帮助他人十分钟，很容易能到tier3
 ![](./pics/task4.png)
 
-# 👉[点击链接开始任务四](https://galxe.com/8xehTTQLX6wAAFMgKa7UiH/campaign/GCkwmt4x9i?referral_code=GRFr2Joj7KmvUaCpZtQGK-R3UdLfy4sY71R5MFar4UdkBFQ)👈
+### 👉[点击链接开始任务四](https://galxe.com/8xehTTQLX6wAAFMgKa7UiH/campaign/GCkwmt4x9i?referral_code=GRFr2Joj7KmvUaCpZtQGK-R3UdLfy4sY71R5MFar4UdkBFQ)👈
 
 
 
