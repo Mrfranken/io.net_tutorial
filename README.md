@@ -29,7 +29,7 @@ io的参与分为两部分，银河任务和官方项目的参与
 - twitter账号
 - discord账号
 
-#### 银河任务一Ignition Airdrop Program by io.net
+#### 银河任务一 Ignition Airdrop Program by io.net
 打开后我建议新手直接无视Galxe Web3 Score - Humanity Score，打开Galxe Passport Holder
 链接自己的BNB钱包。注意这里有需要身份验证，钱包里面准备**0.02**个BNB（大约8U）
 ![](./pics/galaxy_task1_0.png)
