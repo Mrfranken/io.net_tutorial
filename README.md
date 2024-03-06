@@ -23,6 +23,7 @@ io的参与分为两部分，银河任务和官方项目的参与
 
 文字教程太麻烦？点击下方直接观看视频
 [👉 web3项目IO.NET之银河任务教程](https://youtu.be/PmLo7ju46_w)
+
 [👉 web3项目IO.NET之创建自己的GPU worker教程](https://youtu.be/biu3p6mjCKI)
 
 
@@ -84,5 +85,6 @@ io的参与分为两部分，银河任务和官方项目的参与
 
 ### GPU worker任务
 [👉 web3项目IO.NET之银河任务教程](https://youtu.be/PmLo7ju46_w)
+
 [👉 web3项目IO.NET之创建自己的GPU worker教程](https://youtu.be/biu3p6mjCKI)
 
