@@ -62,5 +62,15 @@ io的参与分为两部分，银河任务和官方项目的参与
 ### 👉[点击链接开始任务四](https://galxe.com/8xehTTQLX6wAAFMgKa7UiH/campaign/GCkwmt4x9i?referral_code=GRFr2Joj7KmvUaCpZtQGK-R3UdLfy4sY71R5MFar4UdkBFQ)👈
 
 
+### DC活跃
+做完上面的任意一个任务，便可以进入到discord中。
+- 钱包提交（可以在下图中的wallt-submission中提交钱包地址，注意是solana链的钱包地址）
+![](./pics/submit.png)
+
+- 图片创作
+  - 使用 [https://imagine.bc8.ai/generate](https://imagine.bc8.ai/generate)创作图片并发布到 made-with-bc8频道
+![](./pics/bc8.png)
+
+
 
 
