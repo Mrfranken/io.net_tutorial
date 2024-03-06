@@ -1,6 +1,8 @@
 # io.net_tutorial
 io.net新手参与获取空投教程
 > 这可能是全网你能看到的最全的中文教程🤟
+>
+> 如果您觉得我的教程还不错，动动您的小手点击右上方start，福报将至
 
 ## 申明
 此项目无任何不良引导，所有信息均来自于互联网，如有错误请提PR
@@ -16,6 +18,14 @@ Multicoin Capital和Moonhill Capital参投，3月1日启动的积分奖励计划
 
 ## 如何参与并领取空投
 io的参与分为两部分，银河任务和官方项目的参与
+
+
+
+文字教程太麻烦？点击下方直接观看视频
+[👉 web3项目IO.NET之银河任务教程](https://youtu.be/PmLo7ju46_w)
+[👉 web3项目IO.NET之创建自己的GPU worker教程](https://youtu.be/biu3p6mjCKI)
+
+
 
 ### 银河任务
 银河任务分成四个部分（不用慌张，其实很简单）
@@ -69,8 +79,10 @@ io的参与分为两部分，银河任务和官方项目的参与
 
 - 图片创作
   - 使用 [https://imagine.bc8.ai/generate](https://imagine.bc8.ai/generate)创作图片并发布到 made-with-bc8频道
-![](./pics/bc8.png)
+  ![](./pics/bc8.png)
 
 
-
+### GPU worker任务
+[👉 web3项目IO.NET之银河任务教程](https://youtu.be/PmLo7ju46_w)
+[👉 web3项目IO.NET之创建自己的GPU worker教程](https://youtu.be/biu3p6mjCKI)
 
